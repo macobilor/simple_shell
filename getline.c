@@ -1,7 +1,7 @@
 #include  "shell.h"
 
 /**
- * input_puf - buffer chaned commands
+ * input_buf - buffer chaned commands
  * @info: parameter  struct
  * @buf:  address of buffer
  * @len:  address of len var
